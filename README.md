@@ -21,7 +21,7 @@
 
 Example of generation the request "ocean from rocks"
 
-![pareto](outputs/txt2img-samples/ocean_in_the_space_from_rocks/00000.png) 
+![pareto](sample1.png) 
 
 
 ####Feel free to modify and expand upon this description to better fit your project's specific details and goals.
